@@ -27,6 +27,8 @@ Mystic Cauldron is a game developed in Game Off 2024
 
 The 2024 edition of Game Off featured the theme SECRETS, challenging participants to create a game incorporating this concept. I developed a clicker game where players must uncover the correct potion recipe to fulfill each client's request.
 
+You can play here: https://drafonf.itch.io/mystic-cauldron
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- **********************🐲Built With🐲********************** -->
